@@ -1,0 +1,45 @@
+/* Apply some basic styling to the body */
+body {
+    font-family: serif;
+    margin: 20px;
+    background-color:whitesmoke;
+}
+
+/* Style the header */
+header {
+    text-align:left;
+}
+
+/* Style the section headings */
+h2 {
+    text-decoration: underline;
+}
+
+/* Style the contact info section */
+.contact-info {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+/* Style the education section */
+.education {
+    margin-top: 20px;
+}
+
+/* Style list items */
+ul li {
+    list-style-type: disc;
+    margin-left: 6cm;
+}
+
+/* Style links */
+a {
+    color: #007bff;
+    text-decoration: underline hotpink
+}
+
+a:hover {
+    text-decoration: underline;
+}
